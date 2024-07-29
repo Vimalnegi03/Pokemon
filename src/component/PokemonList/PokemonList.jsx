@@ -41,7 +41,7 @@ export default function PokemonList() {
   return (
     <div className='pokemon-list-wrapper'>
       <div className='pokemon-wrapper'> {(loading)?"Loading....":pokemonList.map((poke)=>(
-        <Pokemon name={poke.name} image={poke.image} type={poke.type} key={poke.id}/>
+        <Pokemon name={poke.name} image={poke.image} type={poke.type} key={poke.id} id={poke.id}/>
       ))}</div>
      <div className='controls'>
         <button disabled={prevUrl==undefined} onClick={()=>setPokedexurl(prevUrl)}>Prev</button>
