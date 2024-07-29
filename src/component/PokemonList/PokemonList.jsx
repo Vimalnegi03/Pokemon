@@ -35,10 +35,13 @@ export default function PokemonList() {
     },[])
   return (
     <div className='pokemon-list-wrapper'>
-      <div>Pokemon-List</div>
-      {(loading)?"Loading....":pokemonList.map((poke)=>(
+      <div className='pokemon-wrapper'> {(loading)?"Loading....":pokemonList.map((poke)=>(
         <Pokemon name={poke.name} image={poke.image} type={poke.type} key={poke.id}/>
-      ))}
+      ))}</div>
+     <div className='controls'>
+        <button>Prev</button>
+        <button>Next</button>
+     </div>
     </div>
   )
 }
