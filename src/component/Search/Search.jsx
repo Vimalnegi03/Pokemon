@@ -1,8 +1,11 @@
 import useDebounce from '../../hooks/useDebounce';
 
 function Search({ updateSearchTerm }) {
-    const debouncedCallback = useDebounce((e) => updateSearchTerm(e.target.value));
-    
+    const debouncedCallback = useDebounce((e) => {
+        const searchTerm = e.target.value.toLowerCase(); // Convert the input to lowercase
+        updateSearchTerm(searchTerm);
+    });
+
     return (
         <div className="flex justify-center p-4 bg-gray-800">
             <input 
