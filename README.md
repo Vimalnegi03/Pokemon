@@ -29,66 +29,65 @@
 
 ### Clone the Repository
 
-```bash
-git clone https://github.com/yourusername/pokedex.git
-cd pokedex
 
-Install Dependencies
+<h1>git clone </h1> :https://github.com/Vimalnegi03/Pokemon<br/>
+<h1?>cd pokedex</h1><br/>
+
+<h2>Install Dependencies</h2><br/>
 npm install
 
 
-Running the Application
+<h2>Running the Application</h2><br/>
 npm run dev
 
 
-🌐 Usage
-Searching for a Pokémon
-Navigate to the Search Bar: Use the search bar at the top of the app to type in the name of the Pokémon you're looking for.
-View Pokémon Details: Click on a Pokémon to view detailed information, including its stats, abilities, and more.
+<h1>🌐 Usage</h1><br/>
+<h2>Searching for a Pokémon-:</h2><br/>
+<h3>Navigate to the Search Bar:</h3> Use the search bar at the top of the app to type in the name of the Pokémon you're looking for.<br/>
+<h3>View Pokémon Details:</h3> Click on a Pokémon to view detailed information, including its stats, abilities, and more.<br/>
 
 
-Viewing All Pokémon
-Browse the List: Scroll through the list of all available Pokémon.
-Click for Details: Select a Pokémon to see its detailed profile.
+<h2>Viewing All Pokémon-:</h2><br/>
+<h3>Browse the List:</h3> Scroll through the list of all available Pokémon.<br/>
+<h3>Click for Details:</h3> Select a Pokémon to see its detailed profile.<br/>
 
 
-🔄 React Hooks Used
-useState: For managing state throughout the app.
-useEffect: For handling side effects like fetching data from the API.
-useCallback: For memoizing functions to optimize performance.
+🔄 <h2>React Hooks Used-:</h2><br/>
+<h3>useState:</h3> For managing state throughout the app.<br/>
+<h3>useEffect:</h3> For handling side effects like fetching data from the API.<br/>
+<h3>useCallback:</h3> For memoizing functions to optimize performance.<br/>
 
 
-🛣️ React Router
-The app uses React Router for client-side routing, making navigation between the home page, search results, and Pokémon details seamless.
+🛣️ <h2>React Router-:</h2><br/>
+The app uses React Router for client-side routing, making navigation between the home page, search results, and Pokémon details seamless.<br/>
 
 
 
-👥 Contributing
-We welcome contributions! Please read our contributing guidelines to get started.
+👥 <h2>Contributing-:</h2><br/>
+We welcome contributions! Please read our contributing guidelines to get started.<br/>
 
-Fork the repository
-Create a new branch (git checkout -b feature-branch)
-Make your changes
-Commit your changes (git commit -m 'Add feature')
-Push to your branch (git push origin feature-branch)
-Create a pull request
-
-
-📜 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+<h1>Fork the repository-:</h1><br/>
+Create a new branch (git checkout -b feature-branch)<br/>
+Make your changes<br/>
+Commit your changes (git commit -m 'Add feature')<br/>
+Push to your branch (git push origin feature-branch)<br/>
+Create a pull request<br/>
 
 
-💬 Contact
-If you have any questions or feedback, feel free to reach out:
-
-Email: your.email@example.com
-Twitter: @yourhandle
-LinkedIn: Your Name
+📜 <h1>License-:</h1><br/>
+This project is licensed under the MIT License. See the LICENSE file for details.<br/>
 
 
-⭐ Acknowledgements
-Pokémon API: This project wouldn't be possible without the amazing Pokémon API.
-React Router: For seamless navigation within the app.
+💬 <h1>Contact-:</h1><br/>
+If you have any questions or feedback, feel free to reach out:<br/>
+
+<h2>Email:</h2> your.email@example.com<br/>
+<h2>LinkedIn:</h2> Your Name<br/>
+
+
+⭐ <h1>Acknowledgements-:</h1><br/>
+<h2>Pokémon API:</h2> This project wouldn't be possible without the amazing Pokémon API.<br/>
+<h2>React Router:</h2> For seamless navigation within the app.<br/>
 
 
 Made with ❤️ by Vimal
