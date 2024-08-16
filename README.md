@@ -3,9 +3,10 @@
 ![React](https://img.shields.io/badge/React-18.2.0-blue?style=flat-square)
 ![Vite](https://img.shields.io/badge/Vite-4.0.0-yellow?style=flat-square)
 ![Axios](https://img.shields.io/badge/Axios-0.27.2-green?style=flat-square)
-![License](https://img.shields.io/github/license/yourusername/pokedex?style=flat-square)
-![Stars](https://img.shields.io/github/stars/yourusername/pokedex?style=flat-square)
+![License](https://img.shields.io/github/license/Vimalnegi03/Pokemon?style=flat-square)
+![Stars](https://img.shields.io/github/stars/Vimalnegi03/Pokemon?style=flat-square)
 
+<img src="https://th.bing.com/th/id/OIP.885HynP84z5hJStoNxU7dwHaE8?w=232&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" height="400px" width="400px"/>
 > 🎮 **Pokemon** is a React application built with Vite that allows users to search for Pokémon, view all available Pokémon, and get detailed information about each one. The app fetches data from a Pokémon API using Axios.
 
 ---
