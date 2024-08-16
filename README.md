@@ -1,4 +1,4 @@
-# 🕹️ Pokedex
+# 🕹️ Pokemon
 
 ![React](https://img.shields.io/badge/React-18.2.0-blue?style=flat-square)
 ![Vite](https://img.shields.io/badge/Vite-4.0.0-yellow?style=flat-square)
@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/github/license/yourusername/pokedex?style=flat-square)
 ![Stars](https://img.shields.io/github/stars/yourusername/pokedex?style=flat-square)
 
-> 🎮 **Pokedex** is a React application built with Vite that allows users to search for Pokémon, view all available Pokémon, and get detailed information about each one. The app fetches data from a Pokémon API using Axios.
+> 🎮 **Pokemon** is a React application built with Vite that allows users to search for Pokémon, view all available Pokémon, and get detailed information about each one. The app fetches data from a Pokémon API using Axios.
 
 ---
 
@@ -29,9 +29,8 @@
 
 ### Clone the Repository
 
-```bash
-git clone https://github.com/yourusername/pokedex.git
-cd pokedex
+git clone [https://github.com/Vimalnegi03/Pokemon]
+cd pokemon
 
 Install Dependencies
 npm install
