@@ -29,21 +29,23 @@
 
 ### Clone the Repository
 
-<<<<<<< HEAD
-=======
-git clone [https://github.com/Vimalnegi03/Pokemon]
-cd pokemon
->>>>>>> 89fac9f9402f0d123cfa7c8c844acb768138f2a3
+```bash
+git clone https://github.com/Vimalnegi03/Pokemon.git
+cd pokedex
+```
+Install Dependencies
 
-<h1>git clone </h1> :https://github.com/Vimalnegi03/Pokemon<br/>
-<h1?>cd pokedex</h1><br/>
-
-<h2>Install Dependencies</h2><br/>
-npm install
+```bash
+ npm install
+```
 
 
-<h2>Running the Application</h2><br/>
-npm run dev
+
+Running the Application
+
+```bash
+  npm run dev
+```
 
 
 <h1>🌐 Usage</h1><br/>
