@@ -6,8 +6,8 @@
 ![License](https://img.shields.io/github/license/Vimalnegi03/Pokemon?style=flat-square)
 ![Stars](https://img.shields.io/github/stars/Vimalnegi03/Pokemon?style=flat-square)
 
-<img src="https://th.bing.com/th/id/OIP.885HynP84z5hJStoNxU7dwHaE8?w=232&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" height="400px" width="400px"/>
-> 🎮 **Pokemon** is a React application built with Vite that allows users to search for Pokémon, view all available Pokémon, and get detailed information about each one. The app fetches data from a Pokémon API using Axios.
+<img src="https://th.bing.com/th/id/OIP.-dt14P8sTUZRD7S9ffHm2QHaEK?w=331&h=186&c=7&r=0&o=5&dpr=1.3&pid=1.7" height="400px" width="1000px"/>
+ 🎮 **Pokemon** is a React application built with Vite that allows users to search for Pokémon, view all available Pokémon, and get detailed information about each one. The app fetches data from a Pokémon API using Axios.
 
 ---
 
