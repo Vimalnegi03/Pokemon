@@ -47,47 +47,41 @@ Running the Application
   npm run dev
 ```
 
-
-<h1>🌐 Usage</h1><br/>
-<h2>Searching for a Pokémon-:</h2><br/>
+<h2>🌐 Usage</h2><br/>
+<h3>Searching for a Pokémon-:</h3><br/>
 <h3>Navigate to the Search Bar:</h3> Use the search bar at the top of the app to type in the name of the Pokémon you're looking for.<br/>
 <h3>View Pokémon Details:</h3> Click on a Pokémon to view detailed information, including its stats, abilities, and more.<br/>
 
+<h3>Viewing All Pokémon-:</h3><br/>
+<h4>Browse the List-:</h4> Scroll through the list of all available Pokémon.<br/>
+<h4>Click for Details-:</h4> Select a Pokémon to see its detailed profile.<br/>
 
-<h2>Viewing All Pokémon-:</h2><br/>
-<h3>Browse the List-:</h3> Scroll through the list of all available Pokémon.<br/>
-<h3>Click for Details-:</h3> Select a Pokémon to see its detailed profile.<br/>
+ <h3>🔄React Hooks Used-:</h3><br/>
+<h4>useState-:</h4> For managing state throughout the app.<br/>
+<h4>useEffect-:</h4> For handling side effects like fetching data from the API.<br/>
+<h4>useCallback-:</h4> For memoizing functions to optimize performance.<br/>
 
-
-🔄 <h2>React Hooks Used-:</h2><br/>
-<h3>useState-:</h3> For managing state throughout the app.<br/>
-<h3>useEffect-:</h3> For handling side effects like fetching data from the API.<br/>
-<h3>useCallback-:</h3> For memoizing functions to optimize performance.<br/>
-
-
-🛣️ <h2>React Router-:</h2>
+ <h2>🛣️React Router-:</h2>
 The app uses React Router for client-side routing, making navigation between the home page, search results, and Pokémon details seamless.<br/>
 
 <h2>👥Contributing-:</h2>
 We welcome contributions! Please read our contributing guidelines to get started.<br/>
 
-<h1>Fork the repository-:</h1><br/>
-<h3><i>Create a new branch (git checkout -b feature-branch)<br/>
+<h3>Fork the repository-:</h3><br/>
+<i>Create a new branch (git checkout -b feature-branch)<br/>
 Make your changes<br/>
 Commit your changes (git commit -m 'Add feature')<br/>
 Push to your branch (git push origin feature-branch)<br/>
-Create a pull request</i></h3><br/>
+Create a pull request</i><br/>
 
-
- <h1> 📜License-:</h1>
+ <h1>📜License-:</h1>
 This project is licensed under the MIT License. See the LICENSE file for details.<br/>
-
 
  <h1>💬Contact-:</h1>
 If you have any questions or feedback, feel free to reach out:<br/>
 
-<h2>Email:</h2> your.email@example.com<br/>
-<h2>LinkedIn:</h2> Your Name<br/>
+<h2>Email:</h2>vimalnegi2003@gmail.com<br/>
+<h2>LinkedIn:</h2>Vimal Negi<br/>
 
 
  <h1>⭐ Acknowledgements-:</h1><br/>
@@ -95,4 +89,4 @@ If you have any questions or feedback, feel free to reach out:<br/>
 <h2>React Router:</h2> For seamless navigation within the app.<br/>
 
 
-Made with ❤️ by Vimal
+Made with ❤️ by  <b>Vimal</b>
