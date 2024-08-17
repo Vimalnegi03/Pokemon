@@ -33,7 +33,7 @@
 
 ```bash
 git clone https://github.com/Vimalnegi03/Pokemon.git
-cd pokedex
+cd pokemon
 ```
 Install Dependencies
 
